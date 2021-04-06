@@ -1,0 +1,1852 @@
+{
+        "fileId": 15037,
+        "bratFile": "{\"text\":\"Admission Date: [**2143-4-25**] Discharge Date: [**2143-4-30**]\\nDate of Birth: [**2076-8-18**] Sex: M\\nService: Cardiac Surgery\\nCHIEF COMPLAINT: Chest pain, 3-vessel disease on\\ncatheterization.\\nHISTORY OF PRESENT ILLNESS: The patient is a 66-year-old\\nmale transferred from [**Hospital6 33**] to the [**Hospital1 346**] status post catheterization,\\nrevealing 3-vessel cardiac disease.\\nThe patient presented to [**Hospital6 33**] with gradually\\nincreasing chest pain over the past three to four months to\\nthe point that he had chest pain with minimal exertion.\\nPAST MEDICAL HISTORY:\\n1. Known coronary artery disease, status post\\ncatheterization 10 years ago at [**Hospital1 **].\\n2. Heavy smoker.\\n3. Hypertension.\\n4. Gastroesophageal reflux disease/peptic ulcer disease.\\n5. Wegener granulomatosis with complete resolution.\\n6. Glaucoma.\\nPAST SURGICAL HISTORY: Perforated ulcer.\\nMEDICATIONS ON ADMISSION: Lisinopril 20 mg p.o. q.d.,\\nPrilosec 20 mg p.o. q.d., Cosopt eyedrops, Alphagan eyedrops,\\nTravatan eyedrops, lansoprazole 50 mg p.o. q.d.\\nALLERGIES: No known drug allergies.\\nHOSPITAL COURSE: The patient underwent an elective coronary\\nartery bypass graft times three on [**2143-4-26**] with grafts\\nbeing a left internal mammary artery to left anterior\\ndescending artery, saphenous vein graft to ramus, and\\nsaphenous vein graft to posterior descending artery. He was\\nextubated on the day of surgery. On postoperative day one,\\nhis nasogastric tubes were discontinued.\\nHe was transferred to the regular floor on postoperative day\\none. He subsequently had a smooth postoperative course. His\\npacing wires were discontinued on postoperative day three.\\nBy postoperative day, he was ambulating well. He was\\ncomfortable on p.o. pain medication, and he was ready for\\ndischarge home.\\nMEDICATIONS ON DISCHARGE:\\n1. Lasix 20 mg p.o. q.d. (for one week).\\n2. KCL 20 mEq p.o. q.d. (for one week).\\n3. Colace 100 mg p.o. b.i.d.\\n4. Zantac 150 mg p.o. b.i.d.\\n5. Enteric-coated aspirin 325 mg p.o. q.d.\\n6. Alphagan eyedrops.\\n7. Lopressor 50 mg p.o. b.i.d.\\n8. Nicoderm patch 22 mg q.d.\\n9. Percocet one to two tablets p.o. q.4-6h. p.r.n.\\nDI[**Last Name (STitle) 408**]E FOLLOWUP: Follow up with primary care physician,\\n[**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2208**], in two weeks and with Dr. [**Last Name (Prefixes) **] in\\nfour weeks.\\nCONDITION AT DISCHARGE: Condition on discharge was stable.\\nDISCHARGE STATUS: Discharged to home.\\n[**Doctor Last Name 412**] [**Last Name (Prefixes) 413**], M.D. [**MD Number(1) 414**]\\nDictated By:[**Last Name (NamePattern1) 2209**]\\nMEDQUIST36\\nD: [**2143-4-30**] 15:09\\nT: [**2143-4-30**] 15:31\\nJOB#: [**Job Number 2211**]\\n\",\"entities\":[[\"T0\",\"temporal\",[[82,91]],\"2076-8-18\",\"\",\"\",\"\"],[\"T1\",\"gender\",[[100,101]],\"M\",\"\",\"\",\"\"],[\"T2\",\"problem\",[[144,154]],\"Chest pain\",\"\",\"\",\"\"],[\"T3\",\"bodyloc\",[[144,149]],\"Chest\",\"\",\"\",\"\"],[\"T4\",\"bodyloc\",[[158,164]],\"vessel\",\"\",\"\",\"\"],[\"T5\",\"problem\",[[158,172]],\"vessel disease\",\"\",\"\",\"\"],[\"T6\",\"test\",[[176,191]],\"catheterization\",\"\",\"\",\"\"],[\"T7\",\"age\",[[238,249]],\"66-year-old\",\"\",\"\",\"\"],[\"T8\",\"gender\",[[250,254]],\"male\",\"\",\"\",\"\"],[\"T9\",\"test\",[[330,345]],\"catheterization\",\"\",\"\",\"\"],[\"T10\",\"problem\",[[359,381]],\"vessel cardiac disease\",\"\",\"\",\"\"],[\"T11\",\"bodyloc\",[[366,373]],\"cardiac\",\"\",\"\",\"\"],[\"T12\",\"course\",[[442,452]],\"increasing\",\"\",\"\",\"\"],[\"T13\",\"problem\",[[442,463]],\"increasing chest pain\",\"\",\"\",\"\"],[\"T14\",\"bodyloc\",[[453,458]],\"chest\",\"\",\"\",\"\"],[\"T15\",\"temporal\",[[478,498]],\"three to four months\",\"\",\"\",\"\"],[\"T16\",\"problem\",[[524,534]],\"chest pain\",\"\",\"\",\"\"],[\"T17\",\"bodyloc\",[[524,529]],\"chest\",\"\",\"\",\"\"],[\"T18\",\"problem\",[[583,612]],\"Known coronary artery disease\",\"\",\"\",\"\"],[\"T19\",\"bodyloc\",[[589,604]],\"coronary artery\",\"\",\"\",\"\"],[\"T20\",\"test\",[[626,641]],\"catheterization\",\"\",\"\",\"\"],[\"T21\",\"temporal\",[[642,654]],\"10 years ago\",\"\",\"\",\"\"],[\"T22\",\"problem\",[[696,708]],\"Hypertension\",\"\",\"\",\"\"],[\"T23\",\"bodyloc\",[[713,729]],\"Gastroesophageal\",\"\",\"\",\"\"],[\"T24\",\"problem\",[[713,744]],\"Gastroesophageal reflux disease\",\"\",\"\",\"\"],[\"T25\",\"problem\",[[745,765]],\"peptic ulcer disease\",\"\",\"\",\"\"],[\"T26\",\"problem\",[[770,792]],\"Wegener granulomatosis\",\"\",\"\",\"\"],[\"T27\",\"course\",[[807,817]],\"resolution\",\"\",\"\",\"\"],[\"T28\",\"problem\",[[822,830]],\"Glaucoma\",\"\",\"\",\"\"],[\"T29\",\"problem\",[[855,871]],\"Perforated ulcer\",\"\",\"\",\"\"],[\"T30\",\"drug\",[[899,909]],\"Lisinopril\",\"\",\"\",\"\"],[\"T31\",\"strength\",[[910,915]],\"20 mg\",\"\",\"\",\"\"],[\"T32\",\"route\",[[916,919]],\"p.o\",\"\",\"\",\"\"],[\"T33\",\"frequency\",[[921,924]],\"q.d\",\"\",\"\",\"\"],[\"T34\",\"drug\",[[927,935]],\"Prilosec\",\"\",\"\",\"\"],[\"T35\",\"strength\",[[936,941]],\"20 mg\",\"\",\"\",\"\"],[\"T36\",\"route\",[[942,945]],\"p.o\",\"\",\"\",\"\"],[\"T37\",\"frequency\",[[947,950]],\"q.d\",\"\",\"\",\"\"],[\"T38\",\"drug\",[[953,968]],\"Cosopt eyedrops\",\"\",\"\",\"\"],[\"T39\",\"drug\",[[970,987]],\"Alphagan eyedrops\",\"\",\"\",\"\"],[\"T40\",\"drug\",[[989,1006]],\"Travatan eyedrops\",\"\",\"\",\"\"],[\"T41\",\"drug\",[[1008,1020]],\"lansoprazole\",\"\",\"\",\"\"],[\"T42\",\"strength\",[[1021,1026]],\"50 mg\",\"\",\"\",\"\"],[\"T43\",\"route\",[[1027,1030]],\"p.o\",\"\",\"\",\"\"],[\"T44\",\"frequency\",[[1032,1035]],\"q.d\",\"\",\"\",\"\"],[\"T45\",\"negation\",[[1048,1050]],\"No\",\"\",\"\",\"\"],[\"T46\",\"problem\",[[1051,1071]],\"known drug allergies\",\"\",\"\",\"\"],[\"T47\",\"treatment\",[[1112,1132]],\"an elective coronary\",\"\",\"\",\"\"],[\"T48\",\"treatment\",[[1133,1152]],\"artery bypass graft\",\"\",\"\",\"\"],[\"T49\",\"treatment\",[[1189,1195]],\"grafts\",\"\",\"\",\"\"],[\"T50\",\"treatment\",[[1269,1298]],\"saphenous vein graft to ramus\",\"\",\"\",\"\"],[\"T51\",\"treatment\",[[1304,1355]],\"saphenous vein graft to posterior descending artery\",\"\",\"\",\"\"],[\"T52\",\"temporal\",[[1377,1384]],\"the day\",\"\",\"\",\"\"],[\"T53\",\"treatment\",[[1388,1395]],\"surgery\",\"\",\"\",\"\"],[\"T54\",\"temporal\",[[1400,1421]],\"postoperative day one\",\"\",\"\",\"\"],[\"T55\",\"treatment\",[[1423,1444]],\"his nasogastric tubes\",\"\",\"\",\"\"],[\"T56\",\"temporal\",[[1507,1524]],\"postoperative day\",\"\",\"\",\"\"],[\"T57\",\"treatment\",[[1585,1597]],\"pacing wires\",\"\",\"\",\"\"],[\"T58\",\"temporal\",[[1619,1642]],\"postoperative day three\",\"\",\"\",\"\"],[\"T59\",\"temporal\",[[1647,1664]],\"postoperative day\",\"\",\"\",\"\"],[\"T60\",\"route\",[[1712,1715]],\"p.o\",\"\",\"\",\"\"],[\"T61\",\"treatment\",[[1712,1732]],\"p.o. pain medication\",\"\",\"\",\"\"],[\"T62\",\"drug\",[[1717,1732]],\"pain medication\",\"\",\"\",\"\"],[\"T63\",\"drug\",[[1800,1805]],\"Lasix\",\"\",\"\",\"\"],[\"T64\",\"strength\",[[1806,1811]],\"20 mg\",\"\",\"\",\"\"],[\"T65\",\"route\",[[1812,1815]],\"p.o\",\"\",\"\",\"\"],[\"T66\",\"frequency\",[[1817,1820]],\"q.d\",\"\",\"\",\"\"],[\"T67\",\"temporal\",[[1827,1835]],\"one week\",\"\",\"\",\"\"],[\"T68\",\"drug\",[[1841,1844]],\"KCL\",\"\",\"\",\"\"],[\"T69\",\"strength\",[[1845,1851]],\"20 mEq\",\"\",\"\",\"\"],[\"T70\",\"route\",[[1852,1855]],\"p.o\",\"\",\"\",\"\"],[\"T71\",\"frequency\",[[1857,1860]],\"q.d\",\"\",\"\",\"\"],[\"T72\",\"temporal\",[[1867,1875]],\"one week\",\"\",\"\",\"\"],[\"T73\",\"drug\",[[1881,1887]],\"Colace\",\"\",\"\",\"\"],[\"T74\",\"strength\",[[1888,1894]],\"100 mg\",\"\",\"\",\"\"],[\"T75\",\"route\",[[1895,1899]],\"p.o.\",\"\",\"\",\"\"],[\"T76\",\"frequency\",[[1900,1905]],\"b.i.d\",\"\",\"\",\"\"],[\"T77\",\"drug\",[[1910,1916]],\"Zantac\",\"\",\"\",\"\"],[\"T78\",\"strength\",[[1917,1923]],\"150 mg\",\"\",\"\",\"\"],[\"T79\",\"route\",[[1924,1928]],\"p.o.\",\"\",\"\",\"\"],[\"T80\",\"frequency\",[[1929,1934]],\"b.i.d\",\"\",\"\",\"\"],[\"T81\",\"form\",[[1939,1953]],\"Enteric-coated\",\"\",\"\",\"\"],[\"T82\",\"treatment\",[[1939,1961]],\"Enteric-coated aspirin\",\"\",\"\",\"\"],[\"T83\",\"drug\",[[1954,1961]],\"aspirin\",\"\",\"\",\"\"],[\"T84\",\"strength\",[[1962,1968]],\"325 mg\",\"\",\"\",\"\"],[\"T85\",\"route\",[[1969,1972]],\"p.o\",\"\",\"\",\"\"],[\"T86\",\"frequency\",[[1974,1977]],\"q.d\",\"\",\"\",\"\"],[\"T87\",\"drug\",[[1982,1999]],\"Alphagan eyedrops\",\"\",\"\",\"\"],[\"T88\",\"drug\",[[2004,2013]],\"Lopressor\",\"\",\"\",\"\"],[\"T89\",\"strength\",[[2014,2019]],\"50 mg\",\"\",\"\",\"\"],[\"T90\",\"route\",[[2020,2024]],\"p.o.\",\"\",\"\",\"\"],[\"T91\",\"frequency\",[[2025,2030]],\"b.i.d\",\"\",\"\",\"\"],[\"T92\",\"treatment\",[[2035,2049]],\"Nicoderm patch\",\"\",\"\",\"\"],[\"T93\",\"drug\",[[2035,2043]],\"Nicoderm\",\"\",\"\",\"\"],[\"T94\",\"form\",[[2044,2049]],\"patch\",\"\",\"\",\"\"],[\"T95\",\"strength\",[[2050,2055]],\"22 mg\",\"\",\"\",\"\"],[\"T96\",\"frequency\",[[2056,2059]],\"q.d\",\"\",\"\",\"\"],[\"T97\",\"drug\",[[2064,2072]],\"Percocet\",\"\",\"\",\"\"],[\"T98\",\"dosage\",[[2073,2083]],\"one to two\",\"\",\"\",\"\"],[\"T99\",\"form\",[[2084,2091]],\"tablets\",\"\",\"\",\"\"],[\"T100\",\"route\",[[2092,2096]],\"p.o.\",\"\",\"\",\"\"],[\"T101\",\"frequency\",[[2097,2110]],\"q.4-6h. p.r.n\",\"\",\"\",\"\"],[\"T102\",\"temporal\",[[2300,2309]],\"two weeks\",\"\",\"\",\"\"],[\"T103\",\"temporal\",[[2354,2364]],\"four weeks\",\"\",\"\",\"\"]],\"relations\":[[\"R0\",\"hasAttr\",[[\"problem\",\"T2\"],[\"bodyloc\",\"T3\"]],\"[Chest pain] --> [Chest]\"],[\"R1\",\"hasAttr\",[[\"problem\",\"T5\"],[\"bodyloc\",\"T4\"]],\"[vessel disease] --> [vessel]\"],[\"R2\",\"hasAttr\",[[\"problem\",\"T10\"],[\"bodyloc\",\"T11\"]],\"[vessel cardiac disease] --> [cardiac]\"],[\"R3\",\"hasAttr\",[[\"problem\",\"T13\"],[\"course\",\"T12\"]],\"[increasing chest pain] --> [increasing]\"],[\"R4\",\"hasTemporal\",[[\"problem\",\"T13\"],[\"temporal\",\"T15\"]],\"[increasing chest pain] --> [three to four months]\"],[\"R5\",\"hasAttr\",[[\"problem\",\"T13\"],[\"bodyloc\",\"T14\"]],\"[increasing chest pain] --> [chest]\"],[\"R6\",\"hasAttr\",[[\"problem\",\"T16\"],[\"bodyloc\",\"T17\"]],\"[chest pain] --> [chest]\"],[\"R7\",\"hasAttr\",[[\"problem\",\"T18\"],[\"bodyloc\",\"T19\"]],\"[Known coronary artery disease] --> [coronary artery]\"],[\"R8\",\"hasTemporal\",[[\"test\",\"T20\"],[\"temporal\",\"T21\"]],\"[catheterization] --> [10 years ago]\"],[\"R9\",\"hasAttr\",[[\"problem\",\"T24\"],[\"bodyloc\",\"T23\"]],\"[Gastroesophageal reflux disease] --> [Gastroesophageal]\"],[\"R10\",\"hasAttr\",[[\"problem\",\"T26\"],[\"course\",\"T27\"]],\"[Wegener granulomatosis] --> [resolution]\"],[\"R11\",\"hasAttr\",[[\"drug\",\"T30\"],[\"route\",\"T32\"]],\"[Lisinopril] --> [p.o]\"],[\"R12\",\"hasAttr\",[[\"drug\",\"T30\"],[\"strength\",\"T31\"]],\"[Lisinopril] --> [20 mg]\"],[\"R13\",\"hasAttr\",[[\"drug\",\"T30\"],[\"frequency\",\"T33\"]],\"[Lisinopril] --> [q.d]\"],[\"R14\",\"hasAttr\",[[\"drug\",\"T34\"],[\"frequency\",\"T37\"]],\"[Prilosec] --> [q.d]\"],[\"R15\",\"hasAttr\",[[\"drug\",\"T34\"],[\"route\",\"T36\"]],\"[Prilosec] --> [p.o]\"],[\"R16\",\"hasAttr\",[[\"drug\",\"T34\"],[\"strength\",\"T35\"]],\"[Prilosec] --> [20 mg]\"],[\"R17\",\"hasAttr\",[[\"drug\",\"T41\"],[\"strength\",\"T42\"]],\"[lansoprazole] --> [50 mg]\"],[\"R18\",\"hasAttr\",[[\"drug\",\"T41\"],[\"route\",\"T43\"]],\"[lansoprazole] --> [p.o]\"],[\"R19\",\"hasAttr\",[[\"drug\",\"T41\"],[\"frequency\",\"T44\"]],\"[lansoprazole] --> [q.d]\"],[\"R20\",\"hasAttr\",[[\"problem\",\"T46\"],[\"negation\",\"T45\"]],\"[known drug allergies] --> [No]\"],[\"R21\",\"hasTemporal\",[[\"treatment\",\"T53\"],[\"temporal\",\"T52\"]],\"[surgery] --> [the day]\"],[\"R22\",\"hasTemporal\",[[\"treatment\",\"T57\"],[\"temporal\",\"T58\"]],\"[pacing wires] --> [postoperative day three]\"],[\"R23\",\"hasAttr\",[[\"drug\",\"T62\"],[\"route\",\"T60\"]],\"[pain medication] --> [p.o]\"],[\"R24\",\"hasAttr\",[[\"drug\",\"T63\"],[\"route\",\"T65\"]],\"[Lasix] --> [p.o]\"],[\"R25\",\"hasAttr\",[[\"drug\",\"T63\"],[\"strength\",\"T64\"]],\"[Lasix] --> [20 mg]\"],[\"R26\",\"hasAttr\",[[\"drug\",\"T63\"],[\"frequency\",\"T66\"]],\"[Lasix] --> [q.d]\"],[\"R27\",\"hasAttr\",[[\"drug\",\"T68\"],[\"frequency\",\"T71\"]],\"[KCL] --> [q.d]\"],[\"R28\",\"hasAttr\",[[\"drug\",\"T68\"],[\"route\",\"T70\"]],\"[KCL] --> [p.o]\"],[\"R29\",\"hasAttr\",[[\"drug\",\"T68\"],[\"strength\",\"T69\"]],\"[KCL] --> [20 mEq]\"],[\"R30\",\"hasAttr\",[[\"drug\",\"T73\"],[\"frequency\",\"T76\"]],\"[Colace] --> [b.i.d]\"],[\"R31\",\"hasAttr\",[[\"drug\",\"T73\"],[\"route\",\"T75\"]],\"[Colace] --> [p.o.]\"],[\"R32\",\"hasAttr\",[[\"drug\",\"T73\"],[\"strength\",\"T74\"]],\"[Colace] --> [100 mg]\"],[\"R33\",\"hasAttr\",[[\"drug\",\"T77\"],[\"route\",\"T79\"]],\"[Zantac] --> [p.o.]\"],[\"R34\",\"hasAttr\",[[\"drug\",\"T77\"],[\"strength\",\"T78\"]],\"[Zantac] --> [150 mg]\"],[\"R35\",\"hasAttr\",[[\"drug\",\"T77\"],[\"frequency\",\"T80\"]],\"[Zantac] --> [b.i.d]\"],[\"R36\",\"hasAttr\",[[\"drug\",\"T83\"],[\"form\",\"T81\"]],\"[aspirin] --> [Enteric-coated]\"],[\"R37\",\"hasAttr\",[[\"drug\",\"T83\"],[\"route\",\"T85\"]],\"[aspirin] --> [p.o]\"],[\"R38\",\"hasAttr\",[[\"drug\",\"T83\"],[\"strength\",\"T84\"]],\"[aspirin] --> [325 mg]\"],[\"R39\",\"hasAttr\",[[\"drug\",\"T83\"],[\"frequency\",\"T86\"]],\"[aspirin] --> [q.d]\"],[\"R40\",\"hasAttr\",[[\"drug\",\"T88\"],[\"route\",\"T90\"]],\"[Lopressor] --> [p.o.]\"],[\"R41\",\"hasAttr\",[[\"drug\",\"T88\"],[\"frequency\",\"T91\"]],\"[Lopressor] --> [b.i.d]\"],[\"R42\",\"hasAttr\",[[\"drug\",\"T88\"],[\"strength\",\"T89\"]],\"[Lopressor] --> [50 mg]\"],[\"R43\",\"hasAttr\",[[\"drug\",\"T93\"],[\"frequency\",\"T96\"]],\"[Nicoderm] --> [q.d]\"],[\"R44\",\"hasAttr\",[[\"drug\",\"T93\"],[\"strength\",\"T95\"]],\"[Nicoderm] --> [22 mg]\"],[\"R45\",\"hasAttr\",[[\"drug\",\"T93\"],[\"form\",\"T94\"]],\"[Nicoderm] --> [patch]\"],[\"R46\",\"hasAttr\",[[\"drug\",\"T97\"],[\"frequency\",\"T101\"]],\"[Percocet] --> [q.4-6h. p.r.n]\"],[\"R47\",\"hasAttr\",[[\"drug\",\"T97\"],[\"route\",\"T100\"]],\"[Percocet] --> [p.o.]\"],[\"R48\",\"hasAttr\",[[\"drug\",\"T97\"],[\"form\",\"T99\"]],\"[Percocet] --> [tablets]\"],[\"R49\",\"hasAttr\",[[\"drug\",\"T97\"],[\"dosage\",\"T98\"]],\"[Percocet] --> [one to two]\"]]}",
+        "bratSem": "{\"entity_types\":[{\"type\":\"temporal\",\"labels\":[\"temporal*\"],\"bgColor\":\"#FF00FF\",\"borderColor\":\"darken\"},{\"type\":\"gender\",\"labels\":[\"gender\"],\"bgColor\":\"#CCFF66\",\"borderColor\":\"darken\"},{\"type\":\"problem\",\"labels\":[\"*problem\"],\"bgColor\":\"#CC99CC\",\"borderColor\":\"darken\"},{\"type\":\"bodyloc\",\"labels\":[\"bodyloc*\"],\"bgColor\":\"#66FF66\",\"borderColor\":\"darken\"},{\"type\":\"test\",\"labels\":[\"*test\"],\"bgColor\":\"#FF00FF\",\"borderColor\":\"darken\"},{\"type\":\"age\",\"labels\":[\"age\"],\"bgColor\":\"#CC9966\",\"borderColor\":\"darken\"},{\"type\":\"course\",\"labels\":[\"course*\"],\"bgColor\":\"#00CC00\",\"borderColor\":\"darken\"},{\"type\":\"drug\",\"labels\":[\"*drug\"],\"bgColor\":\"#FF66CC\",\"borderColor\":\"darken\"},{\"type\":\"strength\",\"labels\":[\"strength*\"],\"bgColor\":\"#9999CC\",\"borderColor\":\"darken\"},{\"type\":\"route\",\"labels\":[\"route*\"],\"bgColor\":\"#99CCFF\",\"borderColor\":\"darken\"},{\"type\":\"frequency\",\"labels\":[\"frequency*\"],\"bgColor\":\"#33FFFF\",\"borderColor\":\"darken\"},{\"type\":\"negation\",\"labels\":[\"negation*\"],\"bgColor\":\"#FF3366\",\"borderColor\":\"darken\"},{\"type\":\"treatment\",\"labels\":[\"*treatment\"],\"bgColor\":\"#0066FF\",\"borderColor\":\"darken\"},{\"type\":\"form\",\"labels\":[\"form*\"],\"bgColor\":\"#33FFCC\",\"borderColor\":\"darken\"},{\"type\":\"dosage\",\"labels\":[\"dosage*\"],\"bgColor\":\"#66CC99\",\"borderColor\":\"darken\"}],\"entity_attribute_types\":[],\"relation_types\":[],\"event_types\":[]}",
+        "tokenBratFile": "",
+        "tokenBratSem": "",
+        "sentBratFile": "{\"text\":\"\",\"entities\":[],\"relations\":[]}",
+        "sentBratSem": "{\"entity_types\":[],\"entity_attribute_types\":[],\"relation_types\":[],\"event_types\":[]}",
+        "typeDefXml": {
+            "entity_types": [
+                {
+                    "id": 3289,
+                    "type": "age",
+                    "labels": [
+                        "age"
+                    ],
+                    "labelsStr": "age",
+                    "bgColor": "#009966",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3292,
+                    "type": "age",
+                    "labels": [
+                        "age"
+                    ],
+                    "labelsStr": "age",
+                    "bgColor": "#CC9966",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3285,
+                    "type": "bodyloc*",
+                    "labels": [
+                        "bodyloc*"
+                    ],
+                    "labelsStr": "bodyloc*",
+                    "bgColor": "#CCFFCC",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3288,
+                    "type": "bodyloc*",
+                    "labels": [
+                        "bodyloc*"
+                    ],
+                    "labelsStr": "bodyloc*",
+                    "bgColor": "#66FF66",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3277,
+                    "type": "condition*",
+                    "labels": [
+                        "condition*"
+                    ],
+                    "labelsStr": "condition*",
+                    "bgColor": "#CC3366",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3280,
+                    "type": "condition*",
+                    "labels": [
+                        "condition*"
+                    ],
+                    "labelsStr": "condition*",
+                    "bgColor": "#33CCCC",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3287,
+                    "type": "course*",
+                    "labels": [
+                        "course*"
+                    ],
+                    "labelsStr": "course*",
+                    "bgColor": "#009966",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3290,
+                    "type": "course*",
+                    "labels": [
+                        "course*"
+                    ],
+                    "labelsStr": "course*",
+                    "bgColor": "#00CC00",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3261,
+                    "type": "dosage*",
+                    "labels": [
+                        "dosage*"
+                    ],
+                    "labelsStr": "dosage*",
+                    "bgColor": "#66CC99",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3271,
+                    "type": "*drug",
+                    "labels": [
+                        "*drug"
+                    ],
+                    "labelsStr": "*drug",
+                    "bgColor": "#66CC33",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3274,
+                    "type": "*drug",
+                    "labels": [
+                        "*drug"
+                    ],
+                    "labelsStr": "*drug",
+                    "bgColor": "#FF66CC",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3275,
+                    "type": "duration*",
+                    "labels": [
+                        "duration*"
+                    ],
+                    "labelsStr": "duration*",
+                    "bgColor": "#CC0033",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3278,
+                    "type": "duration*",
+                    "labels": [
+                        "duration*"
+                    ],
+                    "labelsStr": "duration*",
+                    "bgColor": "#339900",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3283,
+                    "type": "form*",
+                    "labels": [
+                        "form*"
+                    ],
+                    "labelsStr": "form*",
+                    "bgColor": "#CC3300",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3286,
+                    "type": "form*",
+                    "labels": [
+                        "form*"
+                    ],
+                    "labelsStr": "form*",
+                    "bgColor": "#33FFCC",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3273,
+                    "type": "frequency*",
+                    "labels": [
+                        "frequency*"
+                    ],
+                    "labelsStr": "frequency*",
+                    "bgColor": "#996699",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3276,
+                    "type": "frequency*",
+                    "labels": [
+                        "frequency*"
+                    ],
+                    "labelsStr": "frequency*",
+                    "bgColor": "#33FFFF",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3264,
+                    "type": "gender",
+                    "labels": [
+                        "gender"
+                    ],
+                    "labelsStr": "gender",
+                    "bgColor": "#CCFF66",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3272,
+                    "type": "generic*",
+                    "labels": [
+                        "generic*"
+                    ],
+                    "labelsStr": "generic*",
+                    "bgColor": "#66CC00",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3266,
+                    "type": "labvalue*",
+                    "labels": [
+                        "labvalue*"
+                    ],
+                    "labelsStr": "labvalue*",
+                    "bgColor": "#33FF66",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3262,
+                    "type": "negation*",
+                    "labels": [
+                        "negation*"
+                    ],
+                    "labelsStr": "negation*",
+                    "bgColor": "#FF3366",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3279,
+                    "type": "*problem",
+                    "labels": [
+                        "*problem"
+                    ],
+                    "labelsStr": "*problem",
+                    "bgColor": "#FF33FF",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3282,
+                    "type": "*problem",
+                    "labels": [
+                        "*problem"
+                    ],
+                    "labelsStr": "*problem",
+                    "bgColor": "#CC99CC",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3281,
+                    "type": "route*",
+                    "labels": [
+                        "route*"
+                    ],
+                    "labelsStr": "route*",
+                    "bgColor": "#33FF00",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3284,
+                    "type": "route*",
+                    "labels": [
+                        "route*"
+                    ],
+                    "labelsStr": "route*",
+                    "bgColor": "#99CCFF",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3259,
+                    "type": "severity*",
+                    "labels": [
+                        "severity*"
+                    ],
+                    "labelsStr": "severity*",
+                    "bgColor": "#669999",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3265,
+                    "type": "strength*",
+                    "labels": [
+                        "strength*"
+                    ],
+                    "labelsStr": "strength*",
+                    "bgColor": "#9999CC",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3267,
+                    "type": "subject*",
+                    "labels": [
+                        "subject*"
+                    ],
+                    "labelsStr": "subject*",
+                    "bgColor": "#9999FF",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3268,
+                    "type": "subject*",
+                    "labels": [
+                        "subject*"
+                    ],
+                    "labelsStr": "subject*",
+                    "bgColor": "#66CCCC",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3291,
+                    "type": "temporal*",
+                    "labels": [
+                        "temporal*"
+                    ],
+                    "labelsStr": "temporal*",
+                    "bgColor": "#339900",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3293,
+                    "type": "temporal*",
+                    "labels": [
+                        "temporal*"
+                    ],
+                    "labelsStr": "temporal*",
+                    "bgColor": "#FF00FF",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3263,
+                    "type": "*test",
+                    "labels": [
+                        "*test"
+                    ],
+                    "labelsStr": "*test",
+                    "bgColor": "#FF00FF",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3260,
+                    "type": "*treatment",
+                    "labels": [
+                        "*treatment"
+                    ],
+                    "labelsStr": "*treatment",
+                    "bgColor": "#0066FF",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3269,
+                    "type": "uncertain*",
+                    "labels": [
+                        "uncertain*"
+                    ],
+                    "labelsStr": "uncertain*",
+                    "bgColor": "#66CC00",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                },
+                {
+                    "id": 3270,
+                    "type": "uncertain*",
+                    "labels": [
+                        "uncertain*"
+                    ],
+                    "labelsStr": "uncertain*",
+                    "bgColor": "#FF0000",
+                    "borderColor": "darken",
+                    "projectId": 506,
+                    "attributeType": null,
+                    "parentId": 0,
+                    "children": null
+                }
+            ],
+            "relation_types": [
+                {
+                    "id": 2489,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*drug",
+                    "toTargets": "strength*",
+                    "fromColor": "#FF66CC",
+                    "toColor": "#9999CC",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "strength"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "strength*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2490,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*drug",
+                    "toTargets": "frequency*",
+                    "fromColor": "#FF66CC",
+                    "toColor": "#33FFFF",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "frequency"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "frequency*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2491,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*problem",
+                    "toTargets": "course*",
+                    "fromColor": "#CC99CC",
+                    "toColor": "#00CC00",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "course"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "course*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2492,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*problem",
+                    "toTargets": "uncertain*",
+                    "fromColor": "#CC99CC",
+                    "toColor": "#FF0000",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "uncertain"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "uncertain*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2493,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*problem",
+                    "toTargets": "uncertain*",
+                    "fromColor": "#CC99CC",
+                    "toColor": "#FF0000",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "uncertain"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "uncertain*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2494,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*drug",
+                    "toTargets": "route*",
+                    "fromColor": "#FF66CC",
+                    "toColor": "#99CCFF",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "route*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2495,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*drug",
+                    "toTargets": "route*",
+                    "fromColor": "#FF66CC",
+                    "toColor": "#99CCFF",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "route*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2496,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*problem",
+                    "toTargets": "bodyloc*",
+                    "fromColor": "#CC99CC",
+                    "toColor": "#66FF66",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "bodyloc"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "bodyloc*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2497,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*problem",
+                    "toTargets": "bodyloc*",
+                    "fromColor": "#CC99CC",
+                    "toColor": "#66FF66",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "bodyloc"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "bodyloc*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2498,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*drug",
+                    "toTargets": "form*",
+                    "fromColor": "#FF66CC",
+                    "toColor": "#33FFCC",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "form"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "form*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2499,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*drug",
+                    "toTargets": "form*",
+                    "fromColor": "#FF66CC",
+                    "toColor": "#33FFCC",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "form"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "form*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2500,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*problem",
+                    "toTargets": "severity*",
+                    "fromColor": "#CC99CC",
+                    "toColor": "#669999",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "severity"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "severity*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2501,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*problem",
+                    "toTargets": "severity*",
+                    "fromColor": "#CC99CC",
+                    "toColor": "#669999",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "severity"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "severity*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2504,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*test",
+                    "toTargets": "labvalue*",
+                    "fromColor": "#FF00FF",
+                    "toColor": "#33FF66",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "test"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "labvalue"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*test"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "labvalue*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2505,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*test",
+                    "toTargets": "labvalue*",
+                    "fromColor": "#FF00FF",
+                    "toColor": "#33FF66",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "test"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "labvalue"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*test"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "labvalue*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2508,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*drug",
+                    "toTargets": "dosage*",
+                    "fromColor": "#FF66CC",
+                    "toColor": "#66CC99",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "dosage"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "dosage*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2509,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*drug",
+                    "toTargets": "dosage*",
+                    "fromColor": "#FF66CC",
+                    "toColor": "#66CC99",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "dosage"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "dosage*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2510,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*drug",
+                    "toTargets": "duration*",
+                    "fromColor": "#FF66CC",
+                    "toColor": "#339900",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "duration"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "duration*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2511,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*drug",
+                    "toTargets": "duration*",
+                    "fromColor": "#FF66CC",
+                    "toColor": "#339900",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "duration"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*drug"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "duration*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2512,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*problem",
+                    "toTargets": "condition*",
+                    "fromColor": "#CC99CC",
+                    "toColor": "#33CCCC",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "condition"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "condition*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2513,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*problem",
+                    "toTargets": "condition*",
+                    "fromColor": "#CC99CC",
+                    "toColor": "#33CCCC",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "condition"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "condition*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2514,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*problem",
+                    "toTargets": "generic*",
+                    "fromColor": "#CC99CC",
+                    "toColor": "#66CC00",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "generic"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "generic*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2515,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*problem",
+                    "toTargets": "negation*",
+                    "fromColor": "#CC99CC",
+                    "toColor": "#FF3366",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "negation"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "negation*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2516,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*problem",
+                    "toTargets": "negation*",
+                    "fromColor": "#CC99CC",
+                    "toColor": "#FF3366",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "negation"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "negation*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2519,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*problem",
+                    "toTargets": "subject*",
+                    "fromColor": "#CC99CC",
+                    "toColor": "#66CCCC",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "subject"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "subject*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2520,
+                    "projectId": 506,
+                    "type": "hasAttr",
+                    "labelsStr": "hasAttr",
+                    "dashArray": "hasAttr",
+                    "color": "#000",
+                    "fromTargets": "*problem",
+                    "toTargets": "subject*",
+                    "fromColor": "#CC99CC",
+                    "toColor": "#66CCCC",
+                    "labels": [
+                        "hasAttr"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "subject"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "subject*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2502,
+                    "projectId": 506,
+                    "type": "hasTemporal",
+                    "labelsStr": "hasTemporal",
+                    "dashArray": "hasTemporal",
+                    "color": "#000",
+                    "fromTargets": "*problem",
+                    "toTargets": "temporal*",
+                    "fromColor": "#CC99CC",
+                    "toColor": "#FF00FF",
+                    "labels": [
+                        "hasTemporal"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "temporal"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "temporal*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2503,
+                    "projectId": 506,
+                    "type": "hasTemporal",
+                    "labelsStr": "hasTemporal",
+                    "dashArray": "hasTemporal",
+                    "color": "#000",
+                    "fromTargets": "*problem",
+                    "toTargets": "temporal*",
+                    "fromColor": "#CC99CC",
+                    "toColor": "#FF00FF",
+                    "labels": [
+                        "hasTemporal"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "temporal"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*problem"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "temporal*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2506,
+                    "projectId": 506,
+                    "type": "hasTemporal",
+                    "labelsStr": "hasTemporal",
+                    "dashArray": "hasTemporal",
+                    "color": "#000",
+                    "fromTargets": "*treatment",
+                    "toTargets": "temporal*",
+                    "fromColor": "#0066FF",
+                    "toColor": "#FF00FF",
+                    "labels": [
+                        "hasTemporal"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "treatment"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "temporal"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*treatment"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "temporal*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2507,
+                    "projectId": 506,
+                    "type": "hasTemporal",
+                    "labelsStr": "hasTemporal",
+                    "dashArray": "hasTemporal",
+                    "color": "#000",
+                    "fromTargets": "*treatment",
+                    "toTargets": "temporal*",
+                    "fromColor": "#0066FF",
+                    "toColor": "#FF00FF",
+                    "labels": [
+                        "hasTemporal"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "treatment"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "temporal"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*treatment"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "temporal*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2517,
+                    "projectId": 506,
+                    "type": "hasTemporal",
+                    "labelsStr": "hasTemporal",
+                    "dashArray": "hasTemporal",
+                    "color": "#000",
+                    "fromTargets": "*test",
+                    "toTargets": "temporal*",
+                    "fromColor": "#FF00FF",
+                    "toColor": "#FF00FF",
+                    "labels": [
+                        "hasTemporal"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "test"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "temporal"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*test"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "temporal*"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2518,
+                    "projectId": 506,
+                    "type": "hasTemporal",
+                    "labelsStr": "hasTemporal",
+                    "dashArray": "hasTemporal",
+                    "color": "#000",
+                    "fromTargets": "*test",
+                    "toTargets": "temporal*",
+                    "fromColor": "#FF00FF",
+                    "toColor": "#FF00FF",
+                    "labels": [
+                        "hasTemporal"
+                    ],
+                    "args": [
+                        {
+                            "role": "from",
+                            "targets": [
+                                "test"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "temporal"
+                            ]
+                        },
+                        {
+                            "role": "from",
+                            "targets": [
+                                "*test"
+                            ]
+                        },
+                        {
+                            "role": "to",
+                            "targets": [
+                                "temporal*"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "outputTxt": null,
+        "pieCharts": null,
+        "preFile": null,
+        "nextFile": {
+            "fileId": 15036,
+            "fileName": null,
+            "fullName": "13_20210125020510",
+            "type": "json",
+            "isShared": 1,
+            "finalized": "1",
+            "createdTime": "2021-01-25T02:06:12.000+0000",
+            "status": 3,
+            "assignNumber": null,
+            "consistency": null,
+            "hasGold": null,
+            "usedInGold": null,
+            "dataSourceName": null,
+            "taskName": null,
+            "goldStatus": null,
+            "generated": 0,
+            "modifiedTime": null,
+            "modifiedBy": null
+        },
+        "fullName": "14_20210125020510",
+        "finalized": "1",
+        "undo": "0",
+        "redo": "0",
+        "status": 3,
+        "editable": true,
+        "preannotation": true,
+        "hasSuggestion": false,
+        "msg": null,
+        "fileName": null,
+        "createdTime": null,
+        "dataSourceName": null
+    }
